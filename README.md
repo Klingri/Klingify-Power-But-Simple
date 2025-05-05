@@ -1,0 +1,1 @@
+I made this project to learn html, I was testing around and made my first published website. can't wait to learn more. But other new coders can learn from this project and see my progress so far. Enjoy.
