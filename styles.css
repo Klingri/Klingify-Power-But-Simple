@@ -69,13 +69,6 @@ img {
   margin-top: 30px; /* Add a top margin to avoid content overlay */
 }
 
-<div style="width: 100%; background-color: red;">
-    <button type="button">A</button>
-    <button type="button">B</button>
-    <button type="button">C</button>
-    <button type="button">D</button>
-    <button type="button">E</button>
-</div>
 
 div {
   display: flex;
@@ -93,3 +86,55 @@ text {
 
 text-emphasis-color: white;
 }
+
+h1 {
+color: white;
+}
+
+h2 {
+  color: white;
+  }
+
+h3 {
+    color: white;
+    }
+
+    p {
+      color: white;
+      }
+
+      center {
+        color: white;
+        }
+
+        strong {
+          color: white;
+          }
+
+          img {
+            opacity: 0.5;
+          }
+          
+          img:hover {
+            opacity: 1.0;
+          }
+
+          img {
+            display: block;
+            margin: auto;
+            width: 50%;
+          }
+
+          .footer {
+            background-color: #F1F1F1;
+            text-align: center;
+            padding: 10px;
+          }
+
+          h4 {
+            color: white;
+            }
+
+            img {
+              border: 2px solid rgb(255, 255, 255);
+            }
