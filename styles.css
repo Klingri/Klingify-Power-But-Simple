@@ -1,0 +1,95 @@
+@charset "utf-8";
+ 
+ html, body {
+ margin: 5px;
+ padding: 5px;
+ border: 5px;
+ color: #000;
+ background: #fff;
+ }
+ html, body, p, th, td, li, dd, dt {
+ font: 1em Arial, Helvetica, sans-serif;
+ }
+ h1, h2, h3, h4, h5, h6 {
+ font-family: Arial, Helvetica, sans-serif;
+ }
+ h1 { font-size: 2em; }
+ h2 { font-size: 1.5em; }
+ h3 { font-size: 1.2em ; }
+ h4 { font-size: 1.0em; }
+ h5 { font-size: 0.9em; }
+ h6 { font-size: 0.8em; }
+ a:link { color: #00f; }
+ a:visited { color: #009; }
+ a:hover { color: #06f; }
+ a:active { color: #0cf; }
+
+ #main img {
+float: left;
+margin-right: 5px;
+margin-bottom: 15px;
+}
+.noborder {
+border: 4px none;
+}
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #011016;
+  color: white;
+  font-size: 30px;
+}
+
+
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* Sets the border radius of the image */
+img {
+  border-radius: 5%;
+  border:#000;
+  border: 8px none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+/* Main content */
+.main {
+  margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
+
+<div style="width: 100%; background-color: red;">
+    <button type="button">A</button>
+    <button type="button">B</button>
+    <button type="button">C</button>
+    <button type="button">D</button>
+    <button type="button">E</button>
+</div>
+
+div {
+  display: flex;
+  justify-content: space-around;
+}
+button {
+  width: 100%;
+  margin: 5px; /* or whatever you like */
+  border:#000 none;
+  border: 8px;
+  border-radius: 5%;
+}
+
+text {
+
+text-emphasis-color: white;
+}
