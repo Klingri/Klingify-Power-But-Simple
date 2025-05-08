@@ -1,24 +1,24 @@
 # My First Website
 
-Can be used for feedback, learning etc.
+Can be used for feedback and learning.
 
 ## Description
 
-COMING SOON
+This is my first project, I am currently testing things and seeing what works and what doesn't, It's a practice for HTML. It is currently being worked on every few days.
 
 ## Getting Started
 
 ### Dependencies
 
-* You need a web browser, Chrome is a good choice.
-* Windows 7-11
+* You need a web browser, Chrome, Edge, Opera, Brave and Firefox are all recommended and good choices.
+* You need a operating system, I recommend Windows 10 and 11.
 
 ### Installing
 
 * You can download the code directly
-* COMING SOON
+* No modifications are needed for files/folders.
 
-### Executing program
+### Using the website
 
 * Simply just go to https://klingri.github.io/website-test/index.html
 * Step-by-step bullets (not done)
@@ -28,7 +28,7 @@ code blocks for commands
 
 ## Help
 
-Any advise for common problems or issues. (not done)
+If you're having any trouble going to the website or viewing the source code, douple check and troubleshoot.
 ```
 command to run if program contains helper info
 ```
@@ -38,25 +38,35 @@ command to run if program contains helper info
 Contributors names and contact info
 
 Klingri
-[@Klingri]([https://twitter.com/dompizzie](https://github.com/Klingri))
+[@Klingri]([https://github.com/Klingri](https://github.com/Klingri))
 
 ## Version History
 
-* 0.2
+* 0.06
+    * Added page 2.
+    * See [commit change]() or See [release history]()
+* 0.0.5
+    * Huge Release, changed a lot of things.
+* 0.0.4
+    * More Changes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.0.3
+    * Various Changes and fixes
+* 0.0.2
     * Various bug fixes and optimizations
     * See [commit change]() or See [release history]()
-* 0.1
+* 0.0.1
     * Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [MIT] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [W3Schools](https://www.w3schools.com/)
+* [W3Schools](https://www.w3schools.com/)
+* [W3Schools](https://www.w3schools.com/)
+* [W3Schools](https://www.w3schools.com/)
+* [W3Schools](https://www.w3schools.com/)
