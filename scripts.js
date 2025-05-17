@@ -1,1 +1,1 @@
-// Nothing yet as of v0.0.5 alpha.
+// Nothing yet as of v0.0.5 alpha. DISCONTINUED SINCE 0.0.10 ALPHA
