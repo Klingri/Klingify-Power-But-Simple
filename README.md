@@ -4,14 +4,14 @@ Can be used for feedback and learning.
 
 ## Description
 
-This is my first project, I am currently testing things and seeing what works and what doesn't, It's a practice for HTML. It is currently being worked on every few days.
+This was my first project, I was testing things and seeing what works and what doesn't, It was a practice for HTML. It is currently discontinued.
 
 ## Getting Started
 
 ### Dependencies
 
 * You need a web browser, Chrome, Edge, Opera, Brave and Firefox are all recommended and good choices.
-* You need a operating system, I recommend Windows 10 and 11.
+* You need a operating system, I recommend Windows 11.
 
 ### Installing
 
@@ -21,7 +21,7 @@ This is my first project, I am currently testing things and seeing what works an
 ### Using the website
 
 * Simply just go to https://klingri.github.io/website-test/index.html
-* Step-by-step bullets (not done)
+* Step-by-step bullets (not gonna be finished)
 ```
 code blocks for commands
 ```
@@ -42,6 +42,9 @@ Klingri
 
 ## Version History
 
+
+* 0.0.7-10
+    * Final few upgrades, won't go into details but you can see in the version history.
 * 0.06
     * Added page 2.
     * See [commit change]() or See [release history]()
